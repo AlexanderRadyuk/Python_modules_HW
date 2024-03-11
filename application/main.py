@@ -1,6 +1,6 @@
 
-from salary import calculate_salary, ext_salary
-from people import people
+from money_calc.salary import calculate_salary, ext_salary
+from human_resources.people import people
 
 import matplotlib.pyplot as plt
 import seaborn as sns
